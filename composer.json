@@ -1,0 +1,21 @@
+{
+    "name": "diego/analyze-access",
+    "description": "Sistema PHP para analizar logs HTTP y detectar patrones sospechosos (arquitectura hexagonal).",
+    "type": "project",
+    "require": {
+        "php": ">=8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Application\\": "application/",
+            "Infrastructure\\": "infrastructure/",
+            "Domain\\": "domain/"
+        }
+    },
+    "scripts": {
+        "test": "phpunit --testdox tests"
+    }
+}

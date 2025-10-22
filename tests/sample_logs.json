@@ -1,0 +1,18 @@
+[
+  {"ip": "192.168.1.1", "endpoint": "/api/login", "timestamp": 1697123456789, "status": 401, "user_agent": "Mozilla/5.0 (Windows NT 10.0)", "response_time": 120},
+  {"ip": "192.168.1.1", "endpoint": "/api/login", "timestamp": 1697123460000, "status": 401, "user_agent": "Mozilla/5.0 (Windows NT 10.0)", "response_time": 135},
+  {"ip": "192.168.1.1", "endpoint": "/api/login", "timestamp": 1697123465000, "status": 401, "user_agent": "Mozilla/5.0 (Windows NT 10.0)", "response_time": 142},
+  {"ip": "192.168.1.1", "endpoint": "/api/login", "timestamp": 1697123470000, "status": 401, "user_agent": "Mozilla/5.0 (Windows NT 10.0)", "response_time": 128},
+  {"ip": "192.168.1.1", "endpoint": "/api/login", "timestamp": 1697123475000, "status": 401, "user_agent": "Mozilla/5.0 (Windows NT 10.0)", "response_time": 115},
+  {"ip": "192.168.1.1", "endpoint": "/api/login", "timestamp": 1697123480000, "status": 401, "user_agent": "Mozilla/5.0 (Windows NT 10.0)", "response_time": 138},
+  {"ip": "192.168.1.1", "endpoint": "/api/login", "timestamp": 1697123485000, "status": 200, "user_agent": "Mozilla/5.0 (Windows NT 10.0)", "response_time": 105},
+  {"ip": "10.0.0.50", "endpoint": "/admin", "timestamp": 1697123490000, "status": 200, "user_agent": "curl/7.88", "response_time": 85},
+  {"ip": "10.0.0.50", "endpoint": "/admin", "timestamp": 1697123495000, "status": 200, "user_agent": "curl/7.88", "response_time": 92},
+  {"ip": "10.0.0.50", "endpoint": "/admin", "timestamp": 1697123500000, "status": 200, "user_agent": "curl/7.88", "response_time": 88},
+  {"ip": "203.0.113.42", "endpoint": "/api/users", "timestamp": 1697123505000, "status": 200, "user_agent": "sqlmap/1.6", "response_time": 150},
+  {"ip": "203.0.113.42", "endpoint": "/api/data", "timestamp": 1697123510000, "status": 200, "user_agent": "sqlmap/1.6", "response_time": 145},
+  {"ip": "172.16.0.99", "endpoint": "/home", "timestamp": 1697123515000, "status": 200, "user_agent": "bot", "response_time": 50},
+  {"ip": "172.16.0.99", "endpoint": "/about", "timestamp": 1697123520000, "status": 200, "user_agent": "bot", "response_time": 48},
+  {"ip": "192.168.2.10", "endpoint": "/api/products", "timestamp": 1697123525000, "status": 200, "user_agent": "Mozilla/5.0 (Linux; Android 10)", "response_time": 200},
+  {"ip": "192.168.2.10", "endpoint": "/api/products", "timestamp": 1697123530000, "status": 200, "user_agent": "Mozilla/5.0 (Linux; Android 10)", "response_time": 5000}
+]

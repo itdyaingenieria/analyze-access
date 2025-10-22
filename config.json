@@ -1,0 +1,7 @@
+{
+  "max_requests_per_minute": 60,
+  "max_failed_logins": 5,
+  "suspicious_endpoints": ["/api/login", "/admin", "/auth/reset"],
+  "time_window": 300000,
+  "blocked_user_agents": ["sqlmap", "nmap", "curl"]
+}

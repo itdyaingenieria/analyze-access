@@ -1,0 +1,27 @@
+/.idea/
+/.vscode/
+.DS_Store
+Thumbs.db
+
+# Composer
+/vendor/
+/composer.lock
+
+# PHPUnit
+/.phpunit.result.cache
+
+# Logs and runtime files
+/logs/
+/tmp/
+
+# OS files
+ehthumbs.db
+Icon?
+
+# Node/npm (if added later)
+node_modules/
+npm-debug.log
+
+# Editor swap files
+*~
+*.swp
