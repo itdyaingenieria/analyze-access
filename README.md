@@ -30,7 +30,7 @@ Sistema de análisis de logs HTTP desarrollado en PHP 8.2 con **Arquitectura Hex
 
 ```powershell
 # Clonar el repositorio
-git clone <https://github.com/itdyaingenieria/analyze-access.gitl>
+git clone https://github.com/itdyaingenieria/analyze-access.git
 cd analyze-access
 
 # Instalar dependencias
